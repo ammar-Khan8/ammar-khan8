@@ -1,9 +1,7 @@
-# Hi 👋, I'm Ammar Khan
-
-### 🚀 Aspiring Full-Stack Developer | CSE (Cyber Security & Digital Forensics) Student
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ammar+Khan" alt="Typing SVG" />
+</p>
 🎓 B.Tech CSE (Cyber Security & Digital Forensics) at VIT Bhopal University
-
 💻 Passionate about Full-Stack Development, Backend Engineering, and AI-powered Applications
 
 🌱 Currently learning:
